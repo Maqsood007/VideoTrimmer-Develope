@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]

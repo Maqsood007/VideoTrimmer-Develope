@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [VideoTrimmer-Develope:k4l-video-trimmer:unspecified] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/VideoTrimmer-Develope/k4l-video-trimmer/unspecified/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [VideoTrimmer-Develope:k4l-video-trimmer:unspecified] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/VideoTrimmer-Develope/k4l-video-trimmer/unspecified/AndroidManifest.xml:13:5-14:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:13:9-40
+activity#life.knowledge4.videotrimmersample.MainActivity
+ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:18:27-74
+activity#life.knowledge4.videotrimmersample.TrimmerActivity
+ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:22:9-23:47
+	android:name
+		ADDED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml:23:13-44
+uses-sdk
+INJECTED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [VideoTrimmer-Develope:k4l-video-trimmer:unspecified] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/VideoTrimmer-Develope/k4l-video-trimmer/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maqsood/Documents/Citrusbits/LeefCo/VideoTrimmer-Develope/sample-app/src/main/AndroidManifest.xml
